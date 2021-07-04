@@ -1,2 +1,2 @@
 # XeTuLai
-x
+xin chào
