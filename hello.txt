@@ -1,2 +1,1 @@
-tôi là hùng ! 
-This is second action
+tôi là hùng ! `
